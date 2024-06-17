@@ -1,1 +1,1 @@
-A React Video chat applications using webRTC.
+A React Video chat application using webRTC.
