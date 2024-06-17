@@ -1,2 +1,1 @@
-A React Video chat application using webRTC.
-(backend is not deployed)
+A React Video chat application using webRTC. (backend is not deployed)
